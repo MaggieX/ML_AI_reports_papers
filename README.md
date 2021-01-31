@@ -1,4 +1,5 @@
-# Lit Review and Research Papers for Machine Learning & Robotics Course
+# Lit Review and Research Papers for Machine Learning & AI
+Literature Review, Project Reports
 ## Natural Language Processing Project
 ### 1. [Automatic Speech Writer](https://github.com/MaggieX/NLP_automatic_speech_writer)
 ## Statistical Machine Learning
